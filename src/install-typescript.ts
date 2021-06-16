@@ -1,2 +1,2 @@
-let message: string = 'hekko ,typescript';
+let message: string = 'hekko ,ts-node!';
 console.log({ message });
